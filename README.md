@@ -7,4 +7,4 @@ Your nitrous container is a 'virtual machine' - that is, a computer that is runn
 Happy BASHing!
 
 ![Nitrous Command Line](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/nitrous-command-line.png)
-<a href='https://learn.co/lessons/nitrous-command-line-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/nitrous-command-line-intro' title='Using the Nitrous Command Line'>Using the Nitrous Command Line</a> on Learn.co and start learning to code for free.</p>
